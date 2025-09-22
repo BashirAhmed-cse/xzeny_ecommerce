@@ -1,0 +1,131 @@
+
+{
+  "header": {
+    "title": "Mon Magasin E-commerce",
+    "search": "Rechercher des produits...",
+    "categories": "Catégories",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "cart": "Panier",
+    "wishlist": "Liste de souhaits"
+  },
+  "hero": {
+    "title": "Bienvenue dans Notre Magasin",
+    "subtitle": "Découvrez des produits incroyables à des prix exceptionnels",
+    "cta": "Acheter maintenant"
+  },
+  "products": {
+    "title": "Produits en Vedette",
+    "viewAll": "Voir tous les produits"
+  },
+  "footer": {
+    "about": "À propos de nous",
+    "contact": "Contact",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "rights": "Tous droits réservés"
+  },
+  "product": {
+    "addToCart": "Ajouter au panier",
+    "price": "Prix",
+    "description": "Description",
+    "specifications": "Spécifications",
+    "reviews": "Avis",
+    "rating": "Note",
+    "outOfStock": "En rupture de stock",
+    "inStock": "En stock",
+    "quantity": "Quantité"
+  },
+  "auth": {
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "forgotPassword": "Mot de passe oublié?",
+    "rememberMe": "Se souvenir de moi",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "noAccount": "Vous n'avez pas de compte?",
+    "hasAccount": "Vous avez déjà un compte?",
+    "logout": "Se déconnecter"
+  },
+  "cart": {
+    "title": "Panier d'achat",
+    "empty": "Votre panier est vide",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "tax": "Taxe",
+    "total": "Total",
+    "checkout": "Payer",
+    "continueShopping": "Continuer les achats",
+    "remove": "Supprimer",
+    "saveForLater": "Sauvegarder pour plus tard"
+  },
+  "checkout": {
+    "title": "Finaliser la commande",
+    "shippingAddress": "Adresse de livraison",
+    "billingAddress": "Adresse de facturation",
+    "paymentMethod": "Méthode de paiement",
+    "orderSummary": "Récapitulatif de la commande",
+    "placeOrder": "Passer la commande",
+    "continueToPayment": "Continuer vers le paiement",
+    "continueToShipping": "Continuer vers la livraison"
+  },
+  "filter": {
+    "title": "Filtrer",
+    "sort": "Trier",
+    "price": "Prix",
+    "category": "Catégorie",
+    "brand": "Marque",
+    "rating": "Note",
+    "apply": "Appliquer",
+    "clear": "Effacer",
+    "lowToHigh": "Prix: bas à haut",
+    "highToLow": "Prix: haut à bas",
+    "newest": "Plus récent",
+    "popular": "Plus populaire"
+  },
+  "account": {
+    "title": "Mon compte",
+    "orders": "Mes commandes",
+    "wishlist": "Ma liste de souhaits",
+    "addresses": "Mes adresses",
+    "profile": "Mon profil",
+    "orderHistory": "Historique des commandes",
+    "trackOrder": "Suivre la commande",
+    "downloads": "Téléchargements"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "shop": "Boutique",
+    "categories": "Catégories",
+    "newArrivals": "Nouveautés",
+    "deals": "Offres",
+    "contact": "Contact",
+    "about": "À propos"
+  },
+  "messages": {
+    "addedToCart": "Produit ajouté au panier",
+    "addedToWishlist": "Produit ajouté à la liste de souhaits",
+    "removedFromCart": "Produit retiré du panier",
+    "removedFromWishlist": "Produit retiré de la liste de souhaits",
+    "loginSuccess": "Connexion réussie",
+    "logoutSuccess": "Déconnexion réussie",
+    "registerSuccess": "Inscription réussie",
+    "orderSuccess": "Commande passée avec succès!",
+    "error": "Quelque chose s'est mal passé. Veuillez réessayer."
+  },
+  "validation": {
+    "required": "Ce champ est obligatoire",
+    "email": "Veuillez entrer un email valide",
+    "minLength": "Doit contenir au moins {min} caractères",
+    "maxLength": "Ne peut pas dépasser {max} caractères",
+    "passwordMatch": "Les mots de passe ne correspondent pas"
+  },
+  "search": {
+    "placeholder": "Rechercher des produits...",
+    "noResults": "Aucun résultat trouvé",
+    "suggestions": "Suggestions"
+  }
+}

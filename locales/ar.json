@@ -1,0 +1,131 @@
+
+{
+  "header": {
+    "title": "متجري الإلكتروني",
+    "search": "ابحث عن المنتجات...",
+    "categories": "الفئات",
+    "login": "تسجيل الدخول",
+    "register": "تسجيل",
+    "cart": "عربة التسوق",
+    "wishlist": "قائمة الرغبات"
+  },
+  "hero": {
+    "title": "مرحبًا بك في متجرنا",
+    "subtitle": "اكتشف منتجات مذهلة بأسعار رائعة",
+    "cta": "تسوق الآن"
+  },
+  "products": {
+    "title": "منتجات مميزة",
+    "viewAll": "عرض جميع المنتجات"
+  },
+  "footer": {
+    "about": "معلومات عنا",
+    "contact": "اتصل بنا",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة",
+    "rights": "جميع الحقوق محفوظة"
+  },
+  "product": {
+    "addToCart": "أضف إلى السلة",
+    "price": "السعر",
+    "description": "الوصف",
+    "specifications": "المواصفات",
+    "reviews": "التقييمات",
+    "rating": "التقييم",
+    "outOfStock": "غير متوفر",
+    "inStock": "متوفر",
+    "quantity": "الكمية"
+  },
+  "auth": {
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "firstName": "الاسم الأول",
+    "lastName": "الاسم الأخير",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "rememberMe": "تذكرني",
+    "signIn": "تسجيل الدخول",
+    "signUp": "تسجيل",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟",
+    "logout": "تسجيل الخروج"
+  },
+  "cart": {
+    "title": "عربة التسوق",
+    "empty": "عربة التسوق الخاصة بك فارغة",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "tax": "الضريبة",
+    "total": "المجموع",
+    "checkout": "الدفع",
+    "continueShopping": "مواصلة التسوق",
+    "remove": "إزالة",
+    "saveForLater": "حفظ لوقت لاحق"
+  },
+  "checkout": {
+    "title": "إنهاء الطلب",
+    "shippingAddress": "عنوان الشحن",
+    "billingAddress": "عنوان الفوترة",
+    "paymentMethod": "طريقة الدفع",
+    "orderSummary": "ملخص الطلب",
+    "placeOrder": "تقديم الطلب",
+    "continueToPayment": "المتابعة إلى الدفع",
+    "continueToShipping": "المتابعة إلى الشحن"
+  },
+  "filter": {
+    "title": "تصفية",
+    "sort": "ترتيب",
+    "price": "السعر",
+    "category": "الفئة",
+    "brand": "العلامة التجارية",
+    "rating": "التقييم",
+    "apply": "تطبيق",
+    "clear": "مسح",
+    "lowToHigh": "السعر: من الأقل إلى الأعلى",
+    "highToLow": "السعر: من الأعلى إلى الأقل",
+    "newest": "الأحدث",
+    "popular": "الأكثر شيوعًا"
+  },
+  "account": {
+    "title": "حسابي",
+    "orders": "طلباتي",
+    "wishlist": "قائمة رغباتي",
+    "addresses": "عناويني",
+    "profile": "ملفي",
+    "orderHistory": "سجل الطلبات",
+    "trackOrder": "تتبع الطلب",
+    "downloads": "التنزيلات"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "shop": "المتجر",
+    "categories": "الفئات",
+    "newArrivals": "وصل حديثًا",
+    "deals": "العروض",
+    "contact": "اتصل بنا",
+    "about": "عننا"
+  },
+  "messages": {
+    "addedToCart": "تمت إضافة المنتج إلى السلة",
+    "addedToWishlist": "تمت إضافة المنتج إلى قائمة الرغبات",
+    "removedFromCart": "تمت إزالة المنتج من السلة",
+    "removedFromWishlist": "تمت إزالة المنتج من قائمة الرغبات",
+    "loginSuccess": "تم تسجيل الدخول بنجاح",
+    "logoutSuccess": "تم تسجيل الخروج بنجاح",
+    "registerSuccess": "تم التسجيل بنجاح",
+    "orderSuccess": "تم تقديم الطلب بنجاح!",
+    "error": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+  },
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "email": "يرجى إدخال بريد إلكتروني صحيح",
+    "minLength": "يجب أن يكون على الأقل {min} أحرف",
+    "maxLength": "لا يمكن أن يتجاوز {max} أحرف",
+    "passwordMatch": "كلمات المرور غير متطابقة"
+  },
+  "search": {
+    "placeholder": "ابحث عن المنتجات...",
+    "noResults": "لم يتم العثور على نتائج",
+    "suggestions": "اقتراحات"
+  }
+}

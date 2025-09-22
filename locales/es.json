@@ -1,0 +1,131 @@
+
+{
+  "header": {
+    "title": "Mi Tienda de Comercio Electrónico",
+    "search": "Buscar productos...",
+    "categories": "Categorías",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "cart": "Carrito",
+    "wishlist": "Lista de deseos"
+  },
+  "hero": {
+    "title": "Bienvenido a Nuestra Tienda",
+    "subtitle": "Descubre productos increíbles a precios excelentes",
+    "cta": "Comprar ahora"
+  },
+  "products": {
+    "title": "Productos Destacados",
+    "viewAll": "Ver todos los productos"
+  },
+  "footer": {
+    "about": "Sobre nosotros",
+    "contact": "Contacto",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "rights": "Todos los derechos reservados"
+  },
+  "product": {
+    "addToCart": "Añadir al carrito",
+    "price": "Precio",
+    "description": "Descripción",
+    "specifications": "Especificaciones",
+    "reviews": "Reseñas",
+    "rating": "Calificación",
+    "outOfStock": "Agotado",
+    "inStock": "En stock",
+    "quantity": "Cantidad"
+  },
+  "auth": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "rememberMe": "Recordarme",
+    "signIn": "Iniciar sesión",
+    "signUp": "Registrarse",
+    "noAccount": "¿No tienes una cuenta?",
+    "hasAccount": "¿Ya tienes una cuenta?",
+    "logout": "Cerrar sesión"
+  },
+  "cart": {
+    "title": "Carrito de compras",
+    "empty": "Tu carrito está vacío",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "tax": "Impuesto",
+    "total": "Total",
+    "checkout": "Pagar",
+    "continueShopping": "Seguir comprando",
+    "remove": "Eliminar",
+    "saveForLater": "Guardar para después"
+  },
+  "checkout": {
+    "title": "Finalizar compra",
+    "shippingAddress": "Dirección de envío",
+    "billingAddress": "Dirección de facturación",
+    "paymentMethod": "Método de pago",
+    "orderSummary": "Resumen del pedido",
+    "placeOrder": "Realizar pedido",
+    "continueToPayment": "Continuar al pago",
+    "continueToShipping": "Continuar al envío"
+  },
+  "filter": {
+    "title": "Filtrar",
+    "sort": "Ordenar",
+    "price": "Precio",
+    "category": "Categoría",
+    "brand": "Marca",
+    "rating": "Calificación",
+    "apply": "Aplicar",
+    "clear": "Limpiar",
+    "lowToHigh": "Precio: bajo a alto",
+    "highToLow": "Precio: alto a bajo",
+    "newest": "Más reciente",
+    "popular": "Más popular"
+  },
+  "account": {
+    "title": "Mi cuenta",
+    "orders": "Mis pedidos",
+    "wishlist": "Mi lista de deseos",
+    "addresses": "Mis direcciones",
+    "profile": "Mi perfil",
+    "orderHistory": "Historial de pedidos",
+    "trackOrder": "Seguir pedido",
+    "downloads": "Descargas"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "shop": "Tienda",
+    "categories": "Categorías",
+    "newArrivals": "Nuevos productos",
+    "deals": "Ofertas",
+    "contact": "Contacto",
+    "about": "Acerca de"
+  },
+  "messages": {
+    "addedToCart": "Producto añadido al carrito",
+    "addedToWishlist": "Producto añadido a la lista de deseos",
+    "removedFromCart": "Producto eliminado del carrito",
+    "removedFromWishlist": "Producto eliminado de la lista de deseos",
+    "loginSuccess": "Inicio de sesión exitoso",
+    "logoutSuccess": "Cierre de sesión exitoso",
+    "registerSuccess": "Registro exitoso",
+    "orderSuccess": "¡Pedido realizado con éxito!",
+    "error": "Algo salió mal. Por favor, inténtalo de nuevo."
+  },
+  "validation": {
+    "required": "Este campo es obligatorio",
+    "email": "Por favor, introduce un correo electrónico válido",
+    "minLength": "Debe tener al menos {min} caracteres",
+    "maxLength": "No puede tener más de {max} caracteres",
+    "passwordMatch": "Las contraseñas no coinciden"
+  },
+  "search": {
+    "placeholder": "Buscar productos...",
+    "noResults": "No se encontraron resultados",
+    "suggestions": "Sugerencias"
+  }
+}

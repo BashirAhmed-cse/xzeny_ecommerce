@@ -1,0 +1,28 @@
+
+{
+  "header": {
+    "title": "My E-commerce Store",
+    "search": "Search products...",
+    "categories": "Categories",
+    "login": "Login",
+    "register": "Register",
+    "cart": "Cart",
+    "wishlist": "Wishlist"
+  },
+  "hero": {
+    "title": "Welcome to Our Store",
+    "subtitle": "Discover amazing products at great prices",
+    "cta": "Shop Now"
+  },
+  "products": {
+    "title": "Featured Products",
+    "viewAll": "View All Products"
+  },
+  "footer": {
+    "about": "About Us",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved"
+  }
+}
