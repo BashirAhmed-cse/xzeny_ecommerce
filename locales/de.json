@@ -1,0 +1,90 @@
+{
+  "header": {
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "cart": "Warenkorb",
+    "wishlist": "Wunschliste",
+    "shopAll": "Alle Produkte",
+    "aboutUs": "Über uns",
+    "trackOrder": "Bestellung verfolgen",
+    "help": "Hilfe"
+  },
+    "topBanner": {
+    "message1": "🔥 SPAREN SIE BIS ZU 80%",
+    "message2": "⭐ EXKLUSIVER HERBSTVERKAUF",
+    "message3": "🏆 UNSER GRÖSSTER VERKAUF ALLER ZEITEN",
+    "message4": "⏰ ANGEBOT ENDET BALD",
+    "message5": "📚 KOSTENLOSES E-BOOK",
+    "message6": "💰 SPAREN SIE BIS ZU 50%"
+  },
+
+  "hero": {
+    "ratingText": "Bewertet mit 4,8 von über 1.000 Kunden",
+    "titleLine1": "Fühlen Sie sich",
+    "titleLine2": "Als würden Sie auf Luft gehen",
+    "subtitle": "Ihre Füße verdienen das Beste",
+    "features1": "Einfach zu benutzen und schwer zu verzichten",
+    "features2": "Täglicher Komfort mit echten Ergebnissen",
+    "cta": "JETZT UNSER GRÖSSTES ANGEBOT SHOPPEN!",
+    "imageAlt": "Person läuft auf einem Berg"
+  },
+  "bestsellers": {
+    "titlePrefix": "Die",
+    "titleHighlight": "Bestseller",
+    "product1": "Massageeinlagen",
+    "product2": "Flip-Flops mit Fußgewölbeunterstützung",
+    "product3": "Fuß- und Bein-Kompressionsmassagegerät",
+    "product4": "Massage-Roller"
+  },
+  "categories": {
+    "titlePrefix": "Finden Sie die",
+    "titleHighlight": "Erleichterung",
+    "titleSuffix": "Die zu Ihnen Passt",
+    "category1": "Einlegesohlen",
+    "category2": "Schuhe",
+    "category3": "Massagegeräte",
+    "category4": "Polster",
+    "category5": "Socken"
+  },
+  "footerTop": {
+      "title": "BEREIT FÜR DIE ULTIMATIVE <span class=\"text-orange-500\">FUSSPFLEGE?</span>",
+      "subtitle": "Steigen Sie ein in das weltweit beste Sortiment an Fußpflegeprodukten.",
+      "buttonText": "BESTSELLER KAUFEN"
+    },
+  "footer": {
+    "subscribeTitle": "Abonnieren Sie unsere E-Mails",
+    "subscribeSubtitle": "Treten Sie unserer Liste für exklusive Angebote und Neuigkeiten bei.",
+    "subscribeButton": "Abonnieren",
+    "subscribeNote": "Kein Spam. Jederzeit abbestellbar.",
+    "brandDescription": "Fußpflege für alle zugänglich und angenehm machen – mit Premium-Produkten und fachkundiger Beratung.",
+    "supportHours": "Montag - Sonntag | 8-23 Uhr (GMT+1)",
+    "contactEmail": "info@stepprs.com",
+    "quickLinksTitle": "Schnellzugriffe",
+    "shopAll": "Alle Produkte",
+    "newArrivals": "Neue Artikel",
+    "bestSellers": "Bestseller",
+    "giftCards": "Geschenkkarten",
+    "supportTitle": "Support",
+    "aboutUs": "Über uns",
+    "trackOrder": "Bestellung verfolgen",
+    "shippingInfo": "Versandinformationen",
+    "returnsExchanges": "Rückgabe & Umtausch",
+    "connectTitle": "Kontakt",
+    "contactUs": "Kontaktieren Sie uns",
+    "faq": "FAQ",
+    "sizeGuide": "Größentabelle",
+    "blog": "Blog",
+    "followUs": "Folgen Sie uns",
+    "followSubtitle": "Werden Sie Teil unserer Community für Fußpflegetipps und Neuigkeiten",
+    "regionLabel": "Region:",
+    "regionUS": "Vereinigte Staaten (USD $)",
+    "regionEU": "Europa (EUR €)",
+    "regionUK": "Vereinigtes Königreich (GBP £)",
+    "copyright": "© 2025 Stepprs. Alle Rechte vorbehalten.",
+    "privacyPolicy": "Datenschutz",
+    "termsOfService": "Nutzungsbedingungen",
+    "shippingPolicy": "Versandrichtlinien",
+    "refundPolicy": "Rückerstattungsrichtlinien",
+    "accessibility": "Barrierefreiheit"
+  }
+}

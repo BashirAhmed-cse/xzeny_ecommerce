@@ -1,0 +1,90 @@
+{
+  "header": {
+    "login": "Accedi",
+    "register": "Registrati",
+    "cart": "Carrello",
+    "wishlist": "Lista desideri",
+    "shopAll": "Acquista tutto",
+    "aboutUs": "Chi siamo",
+    "trackOrder": "Traccia ordine",
+    "help": "Aiuto"
+  },
+   "topBanner": {
+    "message1": "🔥 RISPARMIA FINO ALL'80%",
+    "message2": "⭐ SALDI AUTUNNALI ESCLUSIVI",
+    "message3": "🏆 LA NOSTRA PIÙ GRANDE VENDITA DI SEMPRE",
+    "message4": "⏰ L'OFFERTA SCADRA PRESTO",
+    "message5": "📚 E-BOOK GRATUITO",
+    "message6": "💰 RISPARMIA FINO AL 50%"
+  },
+
+  "hero": {
+    "ratingText": "Valutato 4,8 da oltre 1.000 clienti",
+    "titleLine1": "Senti come se",
+    "titleLine2": "Camminassi sull'aria",
+    "subtitle": "I tuoi piedi meritano il meglio",
+    "features1": "Facile da usare e difficile da abbandonare",
+    "features2": "Comfort quotidiano con risultati reali",
+    "cta": "ACQUISTA LA NOSTRA PIÙ GRANDE OFFERTA!",
+    "imageAlt": "Persona che corre sulla montagna"
+  },
+  "bestsellers": {
+    "titlePrefix": "I",
+    "titleHighlight": "Bestseller",
+    "product1": "Plantari massaggianti",
+    "product2": "Infradito con supporto dell'arco",
+    "product3": "Massaggiatore per piedi e gambe",
+    "product4": "Rullo massaggiante"
+  },
+  "categories": {
+    "titlePrefix": "Trova il",
+    "titleHighlight": "Sollievo",
+    "titleSuffix": "Che Fa per Te",
+    "category1": "Solette",
+    "category2": "Calzature",
+    "category3": "Massaggiatori",
+    "category4": "Imbottiture",
+    "category5": "Calze"
+  },
+  "footerTop": {
+      "title": "PRONTO A SCOPRIRE LA CURA <span class=\"text-orange-500\">DEI PIEDI DEFINITIVA?</span>",
+      "subtitle": "Fai un passo verso la migliore gamma di prodotti per la cura dei piedi al mondo.",
+      "buttonText": "ACQUISTA I PIÙ VENDUTI"
+    },
+  "footer": {
+    "subscribeTitle": "Iscriviti alle nostre email",
+    "subscribeSubtitle": "Unisciti alla nostra lista per offerte esclusive e ultime novità.",
+    "subscribeButton": "Iscriviti",
+    "subscribeNote": "Mai spam. Disiscriviti in qualsiasi momento.",
+    "brandDescription": "Rendere la cura dei piedi accessibile e piacevole per tutti con prodotti premium e consigli esperti.",
+    "supportHours": "Lunedì - Domenica | 8:00 - 23:00 (GMT+1)",
+    "contactEmail": "info@stepprs.com",
+    "quickLinksTitle": "Link veloci",
+    "shopAll": "Acquista tutto",
+    "newArrivals": "Novità",
+    "bestSellers": "Bestseller",
+    "giftCards": "Carte regalo",
+    "supportTitle": "Supporto",
+    "aboutUs": "Chi siamo",
+    "trackOrder": "Traccia ordine",
+    "shippingInfo": "Informazioni spedizione",
+    "returnsExchanges": "Resi e cambi",
+    "connectTitle": "Contatti",
+    "contactUs": "Contattaci",
+    "faq": "FAQ",
+    "sizeGuide": "Guida alle taglie",
+    "blog": "Blog",
+    "followUs": "Seguici",
+    "followSubtitle": "Unisciti alla nostra community per consigli e aggiornamenti sulla cura dei piedi",
+    "regionLabel": "Regione:",
+    "regionUS": "Stati Uniti (USD $)",
+    "regionEU": "Europa (EUR €)",
+    "regionUK": "Regno Unito (GBP £)",
+    "copyright": "© 2025 Stepprs. Tutti i diritti riservati.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Termini di servizio",
+    "shippingPolicy": "Politica di spedizione",
+    "refundPolicy": "Politica di rimborso",
+    "accessibility": "Accessibilità"
+  }
+}

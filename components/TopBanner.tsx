@@ -1,14 +1,18 @@
-"use client"
+"use client";
 import React from "react";
+import { useTranslations } from "next-intl";
 
 const TopBanner = () => {
-  const messages = [
-    "🔥 SAVE UP TO 80%",
-    "⭐ EXCLUSIVE AUTUMN SALE",
-    "🏆 OUR BIGGEST SALE EVER",
-    "⏰ OFFER ENDS SOON",
-    "📚 FREE E-BOOK",
-    "💰 SAVE UP TO 50%",
+  const t = useTranslations("topBanner");
+
+  // Collect all messages
+  const messages: string[] = [
+    t("message1"),
+    t("message2"),
+    t("message3"),
+    t("message4"),
+    t("message5"),
+    t("message6"),
   ];
 
   return (

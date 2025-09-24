@@ -1,0 +1,90 @@
+{
+  "header": {
+    "login": "ログイン",
+    "register": "登録",
+    "cart": "カート",
+    "wishlist": "ウィッシュリスト",
+    "shopAll": "すべて購入",
+    "aboutUs": "会社情報",
+    "trackOrder": "注文追跡",
+    "help": "ヘルプ"
+  },
+    "topBanner": {
+    "message1": "🔥 最大80%オフ",
+    "message2": "⭐ 秋の特別セール",
+    "message3": "🏆 史上最大のセール",
+    "message4": "⏰ まもなく終了",
+    "message5": "📚 無料電子書籍",
+    "message6": "💰 最大50%オフ"
+  },
+
+  "hero": {
+    "ratingText": "1,000人以上の顧客による評価 4.8",
+    "titleLine1": "空の上を",
+    "titleLine2": "歩いているような感覚",
+    "subtitle": "あなたの足に最高を",
+    "features1": "使いやすく手放せない",
+    "features2": "日常の快適さと確かな効果",
+    "cta": "最大セールをチェック！",
+    "imageAlt": "山を走る人"
+  },
+  "bestsellers": {
+    "titlePrefix": "ベスト",
+    "titleHighlight": "セラー",
+    "product1": "マッサージインソール",
+    "product2": "アーチサポート付きビーチサンダル",
+    "product3": "足・脚用圧迫マッサージ器",
+    "product4": "マッサージローラー"
+  },
+  "categories": {
+    "titlePrefix": "",
+    "titleHighlight": "リリーフ",
+    "titleSuffix": "あなたに合ったものを探す",
+    "category1": "インソール",
+    "category2": "フットウェア",
+    "category3": "マッサージャー",
+    "category4": "パッド",
+    "category5": "ソックス"
+  },
+  "footerTop": {
+      "title": "究極の<span class=\"text-orange-500\">フットケア</span>を体験する準備はできていますか？",
+      "subtitle": "世界最高のフットケア製品のラインナップへステップアップ。",
+      "buttonText": "ベストセラーを購入"
+    },
+  "footer": {
+    "subscribeTitle": "メールを購読する",
+    "subscribeSubtitle": "限定オファーや最新情報を受け取る",
+    "subscribeButton": "購読",
+    "subscribeNote": "スパムはありません。いつでも解除可能。",
+    "brandDescription": "高品質な製品と専門的なアドバイスで、誰でも足のケアを楽しめるように。",
+    "supportHours": "月曜 - 日曜 | 8am - 11pm (GMT+1)",
+    "contactEmail": "info@stepprs.com",
+    "quickLinksTitle": "クイックリンク",
+    "shopAll": "すべて購入",
+    "newArrivals": "新着商品",
+    "bestSellers": "ベストセラー",
+    "giftCards": "ギフトカード",
+    "supportTitle": "サポート",
+    "aboutUs": "会社情報",
+    "trackOrder": "注文追跡",
+    "shippingInfo": "配送情報",
+    "returnsExchanges": "返品・交換",
+    "connectTitle": "つながる",
+    "contactUs": "お問い合わせ",
+    "faq": "FAQ",
+    "sizeGuide": "サイズガイド",
+    "blog": "ブログ",
+    "followUs": "フォローする",
+    "followSubtitle": "足のケアに関する情報や最新ニュースを入手",
+    "regionLabel": "地域：",
+    "regionUS": "アメリカ合衆国 (USD $)",
+    "regionEU": "ヨーロッパ (EUR €)",
+    "regionUK": "イギリス (GBP £)",
+    "copyright": "© 2025 Stepprs. 全著作権所有。",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "shippingPolicy": "配送ポリシー",
+    "refundPolicy": "返金ポリシー",
+    "accessibility": "アクセシビリティ"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "header": {
+    "login": "登录",
+    "register": "注册",
+    "cart": "购物车",
+    "wishlist": "心愿单",
+    "shopAll": "全部商品",
+    "aboutUs": "关于我们",
+    "trackOrder": "订单追踪",
+    "help": "帮助"
+  },
+     "topBanner": {
+    "message1": "🔥 最高可节省80%",
+    "message2": "⭐ 秋季独家优惠",
+    "message3": "🏆 我们有史以来最大的促销",
+    "message4": "⏰ 优惠即将结束",
+    "message5": "📚 免费电子书",
+    "message6": "💰 节省高达50%"
+  },
+
+  "hero": {
+    "ratingText": "超过 1000 位顾客评分 4.8",
+    "titleLine1": "感觉像在",
+    "titleLine2": "空中行走",
+    "subtitle": "你的双脚值得更好",
+    "features1": "易于使用，难以割舍",
+    "features2": "日常舒适与真实效果兼具",
+    "cta": "购买我们的最大促销！",
+    "imageAlt": "人在山上跑步"
+  },
+  "bestsellers": {
+    "titlePrefix": "畅销",
+    "titleHighlight": "产品",
+    "product1": "按摩鞋垫",
+    "product2": "拱形支撑人字拖",
+    "product3": "足部腿部压缩按摩器",
+    "product4": "按摩滚轮"
+  },
+  "categories": {
+    "titlePrefix": "找到适合您的",
+    "titleHighlight": "缓解",
+    "titleSuffix": "",
+    "category1": "鞋垫",
+    "category2": "鞋类",
+    "category3": "按摩器",
+    "category4": "护垫",
+    "category5": "袜子"
+  },
+  "footerTop": {
+      "title": "准备好体验终极<span class=\"text-orange-500\">足部护理</span>了吗？",
+      "subtitle": "迈向全球最佳足部护理产品系列。",
+      "buttonText": "选购畅销产品"
+    },
+  "footer": {
+    "subscribeTitle": "订阅我们的电子邮件",
+    "subscribeSubtitle": "加入我们的邮件列表，获取独家优惠和最新资讯。",
+    "subscribeButton": "订阅",
+    "subscribeNote": "绝不垃圾邮件，可随时退订。",
+    "brandDescription": "通过优质产品和专业指导，让每个人都能轻松享受足部护理。",
+    "supportHours": "周一至周日 | 8am - 11pm (GMT+1)",
+    "contactEmail": "info@stepprs.com",
+    "quickLinksTitle": "快速链接",
+    "shopAll": "全部商品",
+    "newArrivals": "新品上市",
+    "bestSellers": "畅销产品",
+    "giftCards": "礼品卡",
+    "supportTitle": "支持",
+    "aboutUs": "关于我们",
+    "trackOrder": "订单追踪",
+    "shippingInfo": "配送信息",
+    "returnsExchanges": "退换货",
+    "connectTitle": "联系",
+    "contactUs": "联系我们",
+    "faq": "常见问题",
+    "sizeGuide": "尺码指南",
+    "blog": "博客",
+    "followUs": "关注我们",
+    "followSubtitle": "加入社区，获取足部护理技巧和最新资讯",
+    "regionLabel": "地区：",
+    "regionUS": "美国 (USD $)",
+    "regionEU": "欧洲 (EUR €)",
+    "regionUK": "英国 (GBP £)",
+    "copyright": "© 2025 Stepprs。版权所有。",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款",
+    "shippingPolicy": "运输政策",
+    "refundPolicy": "退款政策",
+    "accessibility": "无障碍"
+  }
+}

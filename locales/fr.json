@@ -1,131 +1,90 @@
-
 {
   "header": {
-    "title": "Mon Magasin E-commerce",
-    "search": "Rechercher des produits...",
-    "categories": "Catégories",
     "login": "Connexion",
     "register": "S'inscrire",
     "cart": "Panier",
-    "wishlist": "Liste de souhaits"
-  },
-  "hero": {
-    "title": "Bienvenue dans Notre Magasin",
-    "subtitle": "Découvrez des produits incroyables à des prix exceptionnels",
-    "cta": "Acheter maintenant"
-  },
-  "products": {
-    "title": "Produits en Vedette",
-    "viewAll": "Voir tous les produits"
-  },
-  "footer": {
-    "about": "À propos de nous",
-    "contact": "Contact",
-    "privacy": "Politique de confidentialité",
-    "terms": "Conditions d'utilisation",
-    "rights": "Tous droits réservés"
-  },
-  "product": {
-    "addToCart": "Ajouter au panier",
-    "price": "Prix",
-    "description": "Description",
-    "specifications": "Spécifications",
-    "reviews": "Avis",
-    "rating": "Note",
-    "outOfStock": "En rupture de stock",
-    "inStock": "En stock",
-    "quantity": "Quantité"
-  },
-  "auth": {
-    "email": "E-mail",
-    "password": "Mot de passe",
-    "confirmPassword": "Confirmer le mot de passe",
-    "firstName": "Prénom",
-    "lastName": "Nom",
-    "forgotPassword": "Mot de passe oublié?",
-    "rememberMe": "Se souvenir de moi",
-    "signIn": "Se connecter",
-    "signUp": "S'inscrire",
-    "noAccount": "Vous n'avez pas de compte?",
-    "hasAccount": "Vous avez déjà un compte?",
-    "logout": "Se déconnecter"
-  },
-  "cart": {
-    "title": "Panier d'achat",
-    "empty": "Votre panier est vide",
-    "subtotal": "Sous-total",
-    "shipping": "Livraison",
-    "tax": "Taxe",
-    "total": "Total",
-    "checkout": "Payer",
-    "continueShopping": "Continuer les achats",
-    "remove": "Supprimer",
-    "saveForLater": "Sauvegarder pour plus tard"
-  },
-  "checkout": {
-    "title": "Finaliser la commande",
-    "shippingAddress": "Adresse de livraison",
-    "billingAddress": "Adresse de facturation",
-    "paymentMethod": "Méthode de paiement",
-    "orderSummary": "Récapitulatif de la commande",
-    "placeOrder": "Passer la commande",
-    "continueToPayment": "Continuer vers le paiement",
-    "continueToShipping": "Continuer vers la livraison"
-  },
-  "filter": {
-    "title": "Filtrer",
-    "sort": "Trier",
-    "price": "Prix",
-    "category": "Catégorie",
-    "brand": "Marque",
-    "rating": "Note",
-    "apply": "Appliquer",
-    "clear": "Effacer",
-    "lowToHigh": "Prix: bas à haut",
-    "highToLow": "Prix: haut à bas",
-    "newest": "Plus récent",
-    "popular": "Plus populaire"
-  },
-  "account": {
-    "title": "Mon compte",
-    "orders": "Mes commandes",
-    "wishlist": "Ma liste de souhaits",
-    "addresses": "Mes adresses",
-    "profile": "Mon profil",
-    "orderHistory": "Historique des commandes",
+    "wishlist": "Liste de souhaits",
+    "shopAll": "Tout acheter",
+    "aboutUs": "À propos",
     "trackOrder": "Suivre la commande",
-    "downloads": "Téléchargements"
+    "help": "Aide"
   },
-  "navigation": {
-    "home": "Accueil",
-    "shop": "Boutique",
-    "categories": "Catégories",
+   "topBanner": {
+    "message1": "🔥 ÉCONOMISEZ JUSQU'À 80%",
+    "message2": "⭐ VENTE D'AUTOMNE EXCLUSIVE",
+    "message3": "🏆 NOTRE PLUS GRANDE VENTE JAMAIS",
+    "message4": "⏰ L'OFFRE SE TERMINE BIENTÔT",
+    "message5": "📚 E-BOOK GRATUIT",
+    "message6": "💰 ÉCONOMISEZ JUSQU'À 50%"
+  },
+
+  "hero": {
+    "ratingText": "Évalué 4.8 par plus de 1 000 clients",
+    "titleLine1": "Sentez-vous",
+    "titleLine2": "Comme en marchant sur l'air",
+    "subtitle": "Vos pieds méritent le meilleur",
+    "features1": "Facile à utiliser et difficile à abandonner",
+    "features2": "Confort quotidien avec des résultats réels",
+    "cta": "ACHETEZ NOTRE PLUS GRANDE PROMO !",
+    "imageAlt": "Personne courant sur la montagne"
+  },
+  "bestsellers": {
+    "titlePrefix": "Les",
+    "titleHighlight": "Meilleures Ventes",
+    "product1": "Semelles de massage",
+    "product2": "Tongs avec soutien de la voûte plantaire",
+    "product3": "Appareil de massage pour pieds et jambes",
+    "product4": "Rouleau de massage"
+  },
+  "categories": {
+    "titlePrefix": "Trouvez le",
+    "titleHighlight": "Soulagement",
+    "titleSuffix": "Qui Vous Convient",
+    "category1": "Semelles",
+    "category2": "Chaussures",
+    "category3": "Masseurs",
+    "category4": "Coussinets",
+    "category5": "Chaussettes"
+  },
+  "footerTop": {
+      "title": "PRÊT À DÉCOUVRIR LE SOIN <span class=\"text-orange-500\">DES PIEDS ULTIME ?</span>",
+      "subtitle": "Entrez dans la meilleure gamme de soins pour les pieds au monde.",
+      "buttonText": "ACHETER LES MEILLEURES VENTES"
+    },
+  "footer": {
+    "subscribeTitle": "Abonnez-vous à nos emails",
+    "subscribeSubtitle": "Rejoignez notre liste pour des offres exclusives et les dernières nouvelles.",
+    "subscribeButton": "S'abonner",
+    "subscribeNote": "Pas de spam. Désabonnement possible à tout moment.",
+    "brandDescription": "Rendre les soins des pieds accessibles et agréables pour tous grâce à des produits premium et des conseils d'experts.",
+    "supportHours": "Lundi - Dimanche | 8h - 23h (GMT+1)",
+    "contactEmail": "info@stepprs.com",
+    "quickLinksTitle": "Liens rapides",
+    "shopAll": "Tout acheter",
     "newArrivals": "Nouveautés",
-    "deals": "Offres",
-    "contact": "Contact",
-    "about": "À propos"
-  },
-  "messages": {
-    "addedToCart": "Produit ajouté au panier",
-    "addedToWishlist": "Produit ajouté à la liste de souhaits",
-    "removedFromCart": "Produit retiré du panier",
-    "removedFromWishlist": "Produit retiré de la liste de souhaits",
-    "loginSuccess": "Connexion réussie",
-    "logoutSuccess": "Déconnexion réussie",
-    "registerSuccess": "Inscription réussie",
-    "orderSuccess": "Commande passée avec succès!",
-    "error": "Quelque chose s'est mal passé. Veuillez réessayer."
-  },
-  "validation": {
-    "required": "Ce champ est obligatoire",
-    "email": "Veuillez entrer un email valide",
-    "minLength": "Doit contenir au moins {min} caractères",
-    "maxLength": "Ne peut pas dépasser {max} caractères",
-    "passwordMatch": "Les mots de passe ne correspondent pas"
-  },
-  "search": {
-    "placeholder": "Rechercher des produits...",
-    "noResults": "Aucun résultat trouvé",
-    "suggestions": "Suggestions"
+    "bestSellers": "Meilleures ventes",
+    "giftCards": "Cartes cadeaux",
+    "supportTitle": "Support",
+    "aboutUs": "À propos",
+    "trackOrder": "Suivre la commande",
+    "shippingInfo": "Infos livraison",
+    "returnsExchanges": "Retours et échanges",
+    "connectTitle": "Connecter",
+    "contactUs": "Nous contacter",
+    "faq": "FAQ",
+    "sizeGuide": "Guide des tailles",
+    "blog": "Blog",
+    "followUs": "Suivez-nous",
+    "followSubtitle": "Rejoignez notre communauté pour des conseils et actualités sur les soins des pieds",
+    "regionLabel": "Région :",
+    "regionUS": "États-Unis (USD $)",
+    "regionEU": "Europe (EUR €)",
+    "regionUK": "Royaume-Uni (GBP £)",
+    "copyright": "© 2025 Stepprs. Tous droits réservés.",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation",
+    "shippingPolicy": "Politique de livraison",
+    "refundPolicy": "Politique de remboursement",
+    "accessibility": "Accessibilité"
   }
 }

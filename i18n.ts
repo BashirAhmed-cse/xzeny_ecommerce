@@ -1,17 +1,20 @@
-// i18n.ts
-import { notFound } from 'next/navigation';
-import { getRequestConfig } from 'next-intl/server';
+import { cookies } from 'next/headers';
+import { VALID_LOCALES } from '@/lib/locales';
 
-// Supported locales
-export const locales = ['en', 'bn', 'es', 'fr', 'ar'] as const;
-export type Locale = (typeof locales)[number];
-export const defaultLocale: Locale = 'en';
+export const locales = VALID_LOCALES;
 
-export default getRequestConfig(async ({ locale }) => {
-  // Validate that the incoming `locale` parameter is valid
-  if (!locales.includes(locale as Locale)) notFound();
-
-  return {
-    messages: (await import(`./locales/${locale}.json`)).default
-  };
-});
+export default async function getRequestConfig() {
+  const cookieStore = await cookies();
+  let locale = cookieStore.get('MY_eCOM_NEXTAPP_LOCALE')?.value || 'en';
+  if (!locales.includes(locale)) {
+    locale = 'en';
+  }
+  try {
+    const messages = (await import(`./locales/${locale}.json`)).default;
+    return { locale, messages };
+  } catch (error) {
+    console.error(`Failed to load messages for locale ${locale}:`, error);
+    const messages = (await import(`./locales/en.json`)).default;
+    return { locale: 'en', messages };
+  }
+}

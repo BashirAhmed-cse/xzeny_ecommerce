@@ -1,28 +1,94 @@
-
 {
   "header": {
-    "title": "My E-commerce Store",
-    "search": "Search products...",
-    "categories": "Categories",
     "login": "Login",
     "register": "Register",
     "cart": "Cart",
-    "wishlist": "Wishlist"
+    "wishlist": "Wishlist",
+    "shopAll": "Shop All",
+    "aboutUs": "About Us",
+    "trackOrder": "Track Order",
+    "help": "Help"
   },
+  
+  "topBanner": {
+    "message1": "🔥 SAVE UP TO 80%",
+    "message2": "⭐ EXCLUSIVE AUTUMN SALE",
+    "message3": "🏆 OUR BIGGEST SALE EVER",
+    "message4": "⏰ OFFER ENDS SOON",
+    "message5": "📚 FREE E-BOOK",
+    "message6": "💰 SAVE UP TO 50%"
+  },
+
+
   "hero": {
-    "title": "Welcome to Our Store",
-    "subtitle": "Discover amazing products at great prices",
-    "cta": "Shop Now"
+    "ratingText": "Rated 4.8 by 1,000+ customers",
+    "titleLine1": "Feel Like You're",
+    "titleLine2": "Walking on Air",
+    "subtitle": "Your Feet Deserve Better",
+    "features1": "Easy to Use & Hard to Go Without",
+    "features2": "Everyday Comfort Meets Real Results",
+    "cta": "SHOP OUR BIGGEST SALE!",
+    "imageAlt": "Person running on mountain"
   },
-  "products": {
-    "title": "Featured Products",
-    "viewAll": "View All Products"
+  "bestsellers": {
+    "titlePrefix": "The",
+    "titleHighlight": "Bestsellers",
+    "badge": "SALE",
+    "product1": "Massage Insoles",
+    "product2": "Arch Support Flip Flops",
+    "product3": "Foot Leg Compression Massager",
+    "product4": "Massage Roller"
   },
+  "categories": {
+    "titlePrefix": "Find the",
+    "titleHighlight": "Relief",
+    "titleSuffix": "That Fits You",
+    "category1": "Insoles",
+    "category2": "Footwear",
+    "category3": "Massagers",
+    "category4": "Pads",
+    "category5": "Socks"
+  },
+  "footerTop": {
+    "title": "READY TO EXPERIENCE ULTIMATE <span class=\"text-orange-500\">FOOT CARE?</span>",
+    "subtitle": "Step up into the world's best footcare range.",
+    "buttonText": "SHOP BESTSELLERS"
+    },
+  
   "footer": {
-    "about": "About Us",
-    "contact": "Contact",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "rights": "All rights reserved"
+    "subscribeTitle": "Subscribe to our emails",
+    "subscribeSubtitle": "Join our email list for exclusive offers and the latest news.",
+    "subscribeButton": "Subscribe",
+    "subscribeNote": "No spam ever. Unsubscribe anytime.",
+    "brandDescription": "Making foot care accessible and enjoyable for everyone through premium products and expert guidance.",
+    "supportHours": "Monday - Sunday | 8am - 11pm (GMT+1)",
+    "contactEmail": "info@stepprs.com",
+    "quickLinksTitle": "Quick Links",
+    "shopAll": "Shop All",
+    "newArrivals": "New Arrivals",
+    "bestSellers": "Best Sellers",
+    "giftCards": "Gift Cards",
+    "supportTitle": "Support",
+    "aboutUs": "About Us",
+    "trackOrder": "Track Order",
+    "shippingInfo": "Shipping Info",
+    "returnsExchanges": "Returns & Exchanges",
+    "connectTitle": "Connect",
+    "contactUs": "Contact Us",
+    "faq": "FAQ",
+    "sizeGuide": "Size Guide",
+    "blog": "Blog",
+    "followUs": "Follow Us",
+    "followSubtitle": "Join our community for foot care tips and updates",
+    "regionLabel": "Region:",
+    "regionUS": "United States (USD $)",
+    "regionEU": "Europe (EUR €)",
+    "regionUK": "United Kingdom (GBP £)",
+    "copyright": "© 2025 Stepprs. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "shippingPolicy": "Shipping Policy",
+    "refundPolicy": "Refund Policy",
+    "accessibility": "Accessibility"
   }
 }

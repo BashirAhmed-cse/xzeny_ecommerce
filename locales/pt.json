@@ -1,0 +1,90 @@
+{
+  "header": {
+    "login": "Entrar",
+    "register": "Registrar",
+    "cart": "Carrinho",
+    "wishlist": "Lista de desejos",
+    "shopAll": "Comprar tudo",
+    "aboutUs": "Sobre nós",
+    "trackOrder": "Rastrear pedido",
+    "help": "Ajuda"
+  },
+    "topBanner": {
+    "message1": "🔥 ECONOMIZE ATÉ 80%",
+    "message2": "⭐ VENDA EXCLUSIVA DE OUTONO",
+    "message3": "🏆 NOSSA MAIOR VENDA DE TODOS OS TEMPOS",
+    "message4": "⏰ OFERTA TERMINA EM BREVE",
+    "message5": "📚 E-BOOK GRÁTIS",
+    "message6": "💰 ECONOMIZE ATÉ 50%"
+  },
+
+  "hero": {
+    "ratingText": "Avaliado 4,8 por mais de 1.000 clientes",
+    "titleLine1": "Sinta como se",
+    "titleLine2": "Estivesse caminhando no ar",
+    "subtitle": "Seus pés merecem o melhor",
+    "features1": "Fácil de usar e difícil de largar",
+    "features2": "Conforto diário com resultados reais",
+    "cta": "COMPRE NOSSA MAIOR PROMOÇÃO!",
+    "imageAlt": "Pessoa correndo na montanha"
+  },
+  "bestsellers": {
+    "titlePrefix": "Os",
+    "titleHighlight": "Mais Vendidos",
+    "product1": "Palmilhas de massagem",
+    "product2": "Chinelos com suporte de arco",
+    "product3": "Massageador de pés e pernas",
+    "product4": "Rolo de massagem"
+  },
+  "categories": {
+    "titlePrefix": "Encontre o",
+    "titleHighlight": "Alívio",
+    "titleSuffix": "Que Combina com Você",
+    "category1": "Palmilhas",
+    "category2": "Calçados",
+    "category3": "Massageadores",
+    "category4": "Almofadas",
+    "category5": "Meias"
+  },
+  "footerTop": {
+      "title": "PRONTO PARA EXPERIMENTAR O CUIDADO <span class=\"text-orange-500\">DOS PÉS DEFINITIVO?</span>",
+      "subtitle": "Dê um passo em direção à melhor linha de cuidados com os pés do mundo.",
+      "buttonText": "COMPRAR OS MAIS VENDIDOS"
+    },
+  "footer": {
+    "subscribeTitle": "Inscreva-se em nossos e-mails",
+    "subscribeSubtitle": "Junte-se à nossa lista para ofertas exclusivas e últimas notícias.",
+    "subscribeButton": "Inscrever-se",
+    "subscribeNote": "Sem spam. Cancele a inscrição a qualquer momento.",
+    "brandDescription": "Tornando o cuidado com os pés acessível e agradável para todos com produtos premium e orientação especializada.",
+    "supportHours": "Segunda - Domingo | 8h - 23h (GMT+1)",
+    "contactEmail": "info@stepprs.com",
+    "quickLinksTitle": "Links rápidos",
+    "shopAll": "Comprar tudo",
+    "newArrivals": "Novidades",
+    "bestSellers": "Mais vendidos",
+    "giftCards": "Cartões-presente",
+    "supportTitle": "Suporte",
+    "aboutUs": "Sobre nós",
+    "trackOrder": "Rastrear pedido",
+    "shippingInfo": "Informações de envio",
+    "returnsExchanges": "Devoluções e trocas",
+    "connectTitle": "Conectar",
+    "contactUs": "Contate-nos",
+    "faq": "FAQ",
+    "sizeGuide": "Guia de tamanhos",
+    "blog": "Blog",
+    "followUs": "Siga-nos",
+    "followSubtitle": "Junte-se à nossa comunidade para dicas de cuidados com os pés e novidades",
+    "regionLabel": "Região:",
+    "regionUS": "Estados Unidos (USD $)",
+    "regionEU": "Europa (EUR €)",
+    "regionUK": "Reino Unido (GBP £)",
+    "copyright": "© 2025 Stepprs. Todos os direitos reservados.",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "shippingPolicy": "Política de Envio",
+    "refundPolicy": "Política de Reembolso",
+    "accessibility": "Acessibilidade"
+  }
+}
