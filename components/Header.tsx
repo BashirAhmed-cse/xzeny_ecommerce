@@ -76,15 +76,15 @@ export default function Header() {
                     </DropdownMenuContent>
                   </DropdownMenu>
 
-                  <a href="#" className="block px-2 py-2 rounded hover:bg-gray-100">
+                  <Link href="/pages/about-us" className="block px-2 py-2 rounded hover:bg-gray-100">
                     About Us
-                  </a>
-                  <a href="#" className="block px-2 py-2 rounded hover:bg-gray-100">
+                  </Link>
+                  <Link href="/pages/track-order" className="block px-2 py-2 rounded hover:bg-gray-100">
                     Track Order
-                  </a>
-                  <a href="#" className="block px-2 py-2 rounded hover:bg-gray-100">
+                  </Link>
+                  <Link href="/pages/contact" className="block px-2 py-2 rounded hover:bg-gray-100">
                     Help
-                  </a>
+                  </Link>
                 </nav>
               </SheetContent>
             </Sheet>
@@ -119,15 +119,15 @@ export default function Header() {
               </DropdownMenuContent>
             </DropdownMenu>
 
-            <a href="#" className="hover:text-orange-500 transition-colors">
+            <Link href="/pages/about-us" className="hover:text-orange-500 transition-colors">
               About Us
-            </a>
-            <a href="#" className="hover:text-orange-500 transition-colors">
+            </Link>
+            <Link href="/pages/track-order" className="hover:text-orange-500 transition-colors">
               Track Order
-            </a>
-            <a href="#" className="hover:text-orange-500 transition-colors">
+            </Link>
+            <Link href="/pages/contact" className="hover:text-orange-500 transition-colors">
               Help
-            </a>
+            </Link>
           </nav>
 
           {/* Logo */}

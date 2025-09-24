@@ -4,7 +4,7 @@ import { Star } from "lucide-react";
 
 const Hero = () => {
   return (
-    <section className="w-full  py-16 md:py-24">
+    <section className="w-full  py-10 md:py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1">
@@ -12,7 +12,7 @@ const Hero = () => {
               {[...Array(5)].map((_, i) => (
                 <Star key={i} className="h-5 w-5 fill-amber-400 text-amber-400" />
               ))}
-              <span className="text-sm text-gray-600 ml-2">Rated 4.8 by 1,000+ customers</span>
+              <span className="text-md text-gray-800 ml-2 font-semibold">Rated 4.8 by 1,000+ customers</span>
             </div>
 
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
@@ -20,7 +20,7 @@ const Hero = () => {
               <span className="text-orange-500">Walking on Air</span>
             </h1>
 
-            <p className="text-lg text-gray-700 mb-8">Your Feet Deserve Better</p>
+            <p className="text-xl text-gray-600 mb-8 font-bold">Your Feet Deserve Better</p>
 
             <div className="space-y-4 mb-8">
               <div className="flex items-center space-x-3">
@@ -29,7 +29,7 @@ const Hero = () => {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                   </svg>
                 </div>
-                <span className="text-gray-700">Easy to Use & Hard to Go Without</span>
+                <span className="text-gray-800 font-bold">Easy to Use & Hard to Go Without</span>
               </div>
               <div className="flex items-center space-x-3">
                 <div className="flex-shrink-0 w-5 h-5 rounded-full bg-green-500 flex items-center justify-center">
@@ -37,7 +37,7 @@ const Hero = () => {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                   </svg>
                 </div>
-                <span className="text-gray-700">Everyday Comfort Meets Real Results</span>
+                <span className="text-gray-800 font-bold">Everyday Comfort Meets Real Results</span>
               </div>
             </div>
 
